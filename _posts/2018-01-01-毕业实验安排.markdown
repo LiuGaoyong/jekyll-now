@@ -1,0 +1,1635 @@
+---
+layout: post
+title:  "毕业实验安排（HTML语法--表格练习）"
+date:   2018-01-01 13:48:16 +0800
+categories: blog 
+---
+
+
+
+---
+
+<table border="1">
+<caption><h3>毕业实验安排</h3></caption>
+  <tr>
+    <th> <h4>周数</h4> </th>
+    <th> <h4>LGY</h4> </th>
+    <th> <h4>ZJJ</h4> </th>
+  </tr>
+  <tr>
+    <th>19</th>
+    <th>精细化工</th>
+    <th>化学工程</th>
+  </tr>
+  <tr>
+    <th>20</th>
+    <th>化学工程</th>
+    <th>高分子</th>
+  </tr>
+  <tr>
+    <th>21</th>
+    <th>高分子 </th>
+    <th>精细化工</th>
+  </tr>
+</table>
+
+---
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Author>lgy</o:Author>
+     <o:Created>2018-01-01T23:46:00</o:Created>
+     <o:LastSaved>2018-01-01T16:44:21</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-10.1.0.5707</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#FF0000;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#FF0000;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#4C4C4C;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#4C4C4C;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#FF0000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font17
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font20
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font22
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font23
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font24
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font25
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font26
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font27
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font28
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font29
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font30
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font31
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font32
+	{color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font33
+	{color:#4C4C4C;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+.style17
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style19
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style20
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style21
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style22
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style23
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style24
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style25
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style26
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style27
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style28
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style29
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style30
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style31
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style32
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style33
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style34
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style35
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style36
+	{color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-left:none;
+	border-top:.5pt solid #5B9BD5;
+	border-right:none;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style37
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style38
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style41
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style42
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style43
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style44
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style45
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style46
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style47
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style48
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style49
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style50
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style51
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style52
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style53
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style54
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style55
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style56
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style57
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style58
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#4C4C4C;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style63
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#4C4C4C;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#FF0000;
+	font-size:14.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl69
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl70
+	{mso-style-parent:style0;
+	mso-number-format:"m\0022月\0022d\0022日\0022";
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	font-family:Times New Roman;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl71
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-top:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl73
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl74
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl75
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;
+	border-bottom:1.0pt solid #00000A;}
+.xl76
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:windowtext;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#FF0000;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl78
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-top:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;
+	border-bottom:1.0pt solid #00000A;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#FF0000;
+	font-size:14.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-top:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl82
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl83
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl84
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl85
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;
+	border-bottom:1.0pt solid #00000A;}
+.xl86
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-top:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl87
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;}
+.xl88
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl89
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl90
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Times New Roman;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl91
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Times New Roman;
+	mso-font-charset:134;
+	border:1.0pt solid #00000A;}
+.xl92
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Times New Roman;
+	mso-font-charset:134;
+	border-left:1.0pt solid #00000A;
+	border-right:1.0pt solid #00000A;
+	border-bottom:1.0pt solid #00000A;}
+.xl93
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#FF0000;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl94
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl95
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;}
+.xl96
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-top:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl97
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl98
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Times New Roman;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl99
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;}
+.xl100
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:1.0pt solid #000000;
+	border-top:1.0pt solid #000000;
+	border-bottom:1.0pt solid #000000;}
+.xl101
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;
+	border-left:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;}
+.xl102
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	mso-font-charset:134;
+	border:1.0pt solid #000000;}
+.xl103
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Sheet1</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>270</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:TopRowVisible>22</x:TopRowVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>6</x:ActiveCol>
+          <x:ActiveRow>44</x:ActiveRow>
+          <x:RangeSelection>G45</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
+     <x:WindowHeight>13260</x:WindowHeight>
+     <x:WindowWidth>27720</x:WindowWidth>
+    </x:ExcelWorkbook>
+    <x:SupBook>
+     <x:Path>/tmp/</x:Path>
+    </x:SupBook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple" class="xl65">
+  <table width="432" border="0" cellpadding="0" cellspacing="0" style='width:324.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="72" span="16384" class="xl65" style='mso-width-source:userset;mso-width-alt:2304;'/>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl66" height="43" width="72" rowspan="2" dir="LTR" style='height:32.25pt;width:54.00pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>精细化工</td>
+    <td class="xl67" width="72" rowspan="2" dir="LTR" style='width:54.00pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>指导教师</td>
+    <td class="xl67" width="72" rowspan="2" dir="LTR" style='width:54.00pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>地 点</td>
+    <td class="xl68" width="144" colspan="2" dir="LTR" style='width:108.00pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;'></td>
+    <td class="xl65" width="72" style='width:54.00pt;'></td>
+   </tr>
+   <tr height="23" style='height:17.25pt;mso-height-source:userset;mso-height-alt:345;'>
+    <td class="xl70" dir="LTR" x:num="43102">1月2日</td>
+    <td class="xl70" dir="LTR" x:num="43103">1月3日</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="22" style='height:16.50pt;mso-height-source:userset;mso-height-alt:330;'>
+    <td class="xl67" height="61" rowspan="3" dir="LTR" style='height:45.75pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>表面活性剂性能测试</td>
+    <td class="xl71" dir="LTR" x:str>胡志勇</td>
+    <td class="xl67" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>科学楼东<font class="font4">306</font></td>
+    <td class="xl72" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>4号</td>
+    <td class="xl72" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>15号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl73"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl75" dir="LTR" x:str>朱海林</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="42" style='height:31.50pt;mso-height-source:userset;mso-height-alt:630;'>
+    <td class="xl67" height="42" dir="LTR" style='height:31.50pt;' x:str>二硝基甘脲的制备</td>
+    <td class="xl67" dir="LTR" x:str>王建龙</td>
+    <td class="xl67" dir="LTR" x:str>科学楼东<font class="font4">313</font></td>
+    <td class="xl72" dir="LTR" x:str>3号</td>
+    <td class="xl76" dir="LTR" x:str>19号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="56" style='height:42.00pt;mso-height-source:userset;mso-height-alt:840;'>
+    <td class="xl72" height="56" dir="LTR" style='height:42.00pt;' x:str>天然活性物质的提取</td>
+    <td class="xl72" dir="LTR" x:str>马文兵</td>
+    <td class="xl72" rowspan="2" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>科学楼东<font class="font4">305</font></td>
+    <td class="xl76" rowspan="2" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>2号</td>
+    <td class="xl72" rowspan="2" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>18号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="56" style='height:42.00pt;mso-height-source:userset;mso-height-alt:840;'>
+    <td class="xl72" height="56" dir="LTR" style='height:42.00pt;' x:str>黄连提取物的精制与分析</td>
+    <td class="xl72" dir="LTR" x:str>王艳红</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="43" style='height:32.25pt;mso-height-source:userset;mso-height-alt:645;'>
+    <td class="xl72" height="81" rowspan="3" dir="LTR" style='height:60.75pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>涂料的制备与施工性能的测试</td>
+    <td class="xl78" dir="LTR" x:str>李永祥（<font class="font4">D</font><font class="font32">）</font></td>
+    <td class="xl72" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>科学楼东<font class="font4">312</font></td>
+    <td class="xl72" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>6号</td>
+    <td class="xl72" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>17号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl79"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl80" dir="LTR" x:str>马忠平</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="58" style='height:43.50pt;mso-height-source:userset;mso-height-alt:870;'>
+    <td class="xl72" height="58" dir="LTR" style='height:43.50pt;' x:str>乳状液的制备及性质</td>
+    <td class="xl72" dir="LTR" x:str>郑志花</td>
+    <td class="xl72" dir="LTR" x:str>科学楼东<font class="font4">312</font></td>
+    <td class="xl72" dir="LTR" x:str>5号</td>
+    <td class="xl72" dir="LTR" x:str>18号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl65" height="18" colspan="6" style='height:13.50pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl65" height="19" colspan="6" style='height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="21" style='height:15.75pt;mso-height-source:userset;mso-height-alt:315;'>
+    <td class="xl81" height="59" rowspan="3" dir="LTR" style='height:44.25pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>化学工程</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>指导老师</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>实验时间</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>LGY时间</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>ZJJ时间</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="21" style='height:15.75pt;mso-height-source:userset;mso-height-alt:315;'>
+    <td class="xl82" height="61" rowspan="3" dir="LTR" style='height:45.75pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>液体常用工程物性参数的测定</td>
+    <td class="xl86" dir="LTR" x:str>霍红</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>上午<font class="font9">8:00-12:00</font></td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>10号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>2号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl85" dir="LTR" x:str>赵慧鹏</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="21" style='height:15.75pt;mso-height-source:userset;mso-height-alt:315;'>
+    <td class="xl82" height="63" rowspan="3" dir="LTR" style='height:47.25pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>重力沉降和旋风分离组合实验</td>
+    <td class="xl86" dir="LTR" x:str>李同川</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>上午<font class="font9">8:00-12:00</font></td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>9号</td>
+    <td class="xl88" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>6号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="22" style='height:16.50pt;mso-height-source:userset;mso-height-alt:330;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl85" dir="LTR" x:str>王苏</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl82" height="58" rowspan="3" dir="LTR" style='height:43.50pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>全混流反应器停留时间分布测定</td>
+    <td class="xl86" dir="LTR" x:str>贾广信</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>上午<font class="font9">8:00-12:00</font></td>
+    <td class="xl88" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>8号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>6号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl85" dir="LTR" x:str>柳来栓</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="20" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl82" height="58" rowspan="3" dir="LTR" style='height:43.50pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>特殊精馏</td>
+    <td class="xl86" dir="LTR" x:str>焦纬洲</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>上午<font class="font9">8:00-12:00</font></td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>12号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>5号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl85" dir="LTR" x:str>申红艳</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl82" height="57" rowspan="3" dir="LTR" style='height:42.75pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>计算机仿真</td>
+    <td class="xl86" dir="LTR" x:str>袁志国</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>上午<font class="font9">8:00-12:00</font></td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>12号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>4号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl85" dir="LTR" x:str>张立新</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl82" height="57" rowspan="3" dir="LTR" style='height:42.75pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>反应结晶实验</td>
+    <td class="xl86" dir="LTR" x:str>李裕</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>上午<font class="font9">8:00-12:00</font></td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>11号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>3号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl85" dir="LTR" x:str>康雪</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl90" height="71" rowspan="3" dir="LTR" style='height:53.25pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>(<font class="font33">一阶水箱</font><font class="font9">)</font><font class="font33">对象特性的实验测取</font></td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>陈丽珍</td>
+    <td class="xl86" dir="LTR" x:str>下午</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>9号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>2号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;'>
+    <td class="xl92" dir="LTR" x:str>2:00-6:00</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl82" height="71" rowspan="3" dir="LTR" style='height:53.25pt;border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>化工自动化基础综合实验</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>陈丽珍</td>
+    <td class="xl86" dir="LTR" x:str>下午</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>11号</td>
+    <td class="xl82" rowspan="3" dir="LTR" style='border-right:1.0pt solid #00000A;border-bottom:1.0pt solid #00000A;' x:str>4号</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl87"></td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="33" style='height:24.75pt;'>
+    <td class="xl92" dir="LTR" x:str>2:00-6:00</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl65" height="18" colspan="6" style='height:13.50pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" style='height:14.25pt;'>
+    <td class="xl65" height="19" colspan="6" style='height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="31" style='height:23.25pt;'>
+    <td class="xl93" height="31" dir="LTR" style='height:23.25pt;' x:str>高分子<font class="font11">实验</font></td>
+    <td class="xl94" dir="LTR" x:str>地点</td>
+    <td class="xl95"></td>
+    <td class="xl96" dir="LTR" x:str>LGY时间</td>
+    <td class="xl102" dir="LTR" x:str>ZJJ时间</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="46" style='height:34.50pt;'>
+    <td class="xl97" height="46" dir="LTR" style='height:34.50pt;' x:str>环氧树脂的制备</td>
+    <td class="xl98" dir="LTR" x:num>205</td>
+    <td class="xl99"></td>
+    <td class="xl96" dir="LTR" x:str>21周周四1.18日上午</td>
+    <td class="xl102" dir="LTR" x:str>21周周一1.15日上午</td>
+    <td class="xl103"></td>
+   </tr>
+   <tr height="46" style='height:34.50pt;'>
+    <td class="xl97" height="46" dir="LTR" style='height:34.50pt;' x:str>环氧树脂的提纯及粘接性能</td>
+    <td class="xl98" dir="LTR" x:num>205</td>
+    <td class="xl99"></td>
+    <td class="xl96" dir="LTR" x:str>21周周三1.17日晚上</td>
+    <td class="xl102" dir="LTR" x:str>21周周一1.15日下午</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="46" style='height:34.50pt;'>
+    <td class="xl97" height="46" dir="LTR" style='height:34.50pt;' x:str>聚醋酸乙烯酯的制备</td>
+    <td class="xl98" dir="LTR" x:num>212</td>
+    <td class="xl99"></td>
+    <td class="xl96" dir="LTR" x:str>21周周二1.16日下午</td>
+    <td class="xl102" dir="LTR" x:str>21周周五1.19日上午</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="61" style='height:45.75pt;'>
+    <td class="xl97" height="61" dir="LTR" style='height:45.75pt;' x:str>聚醋酸乙烯酯醇解制备聚乙烯醇</td>
+    <td class="xl98" dir="LTR" x:num>212</td>
+    <td class="xl99"></td>
+    <td class="xl96" dir="LTR" x:str>21周周五1.19日下午</td>
+    <td class="xl102" dir="LTR" x:str>21周周五1.19日下午</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="46" style='height:34.50pt;'>
+    <td class="xl97" height="46" dir="LTR" style='height:34.50pt;' x:str>聚乙烯醇缩甲醛胶水的制备</td>
+    <td class="xl98" dir="LTR" x:num>212</td>
+    <td class="xl99"></td>
+    <td class="xl96" dir="LTR" x:str>21周周五1.19日晚上</td>
+    <td class="xl102" dir="LTR" x:str>21周周三1.17日上午</td>
+    <td class="xl65"></td>
+   </tr>
+   <tr height="61" style='height:45.75pt;'>
+    <td class="xl97" height="61" dir="LTR" style='height:45.75pt;' x:str>填充聚丙烯的成型及力学性能</td>
+    <td class="xl100" dir="LTR" x:str>西<font class="font12">102</font></td>
+    <td class="xl101"></td>
+    <td class="xl96" dir="LTR" x:str>21周周四1.18日下午</td>
+    <td class="xl102" dir="LTR" x:str>21周周三1.17日下午</td>
+    <td class="xl65"></td>
+   </tr>
+
+  </table>
+ </body>
+</html>
