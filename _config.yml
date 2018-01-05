@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: liugaoyong_88@163.com
-  facebook:
+  facebook: LiuGaoyong
   flickr:
   github: LiuGaoyong
   instagram:
@@ -29,7 +29,7 @@ footer-links:
   twitter: LiuGaoyong
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: ?lfhs=2 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
