@@ -7,7 +7,7 @@ categories: note
 
 
 
-
+---
 
 ##  一、Intel_Parallel_Studio_XE
 ### 1. **安装包下载地址（推荐`IPS2015`）**
